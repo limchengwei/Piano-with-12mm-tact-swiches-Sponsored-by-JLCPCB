@@ -1,4 +1,4 @@
-# Piano-with-12mm-tact-swiches-Sponsored-by-JLCPCB
+# Piano-with-12mm-tact-switches-Sponsored-by-JLCPCB
 
 Thank you JLCPCB for sponsoring this project. Please get your PCB printed at https://jlcpcb.com/RAT
 
