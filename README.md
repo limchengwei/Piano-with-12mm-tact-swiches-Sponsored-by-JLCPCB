@@ -1,5 +1,7 @@
 # Piano-with-12mm-tact-switches-Sponsored-by-JLCPCB
 
+![image](https://user-images.githubusercontent.com/85741357/181515218-208518f5-f220-43a7-a626-77a54437a9a0.png)
+
 Thank you JLCPCB for sponsoring this project. Please get your PCB printed at https://jlcpcb.com/RAT
 
 Hardware components
