@@ -1,8 +1,6 @@
 # Piano-with-12mm-tact-swiches-Sponsored-by-JLCPCB
 
-Thank you JLCPCB for sponsoring this project. Please get your PCB printed at jlcpcb.com/RAT
-
-Thank you JLCPCB for sponsoring this project. Please order your PCBs at jlcpcb.com/RAT
+Thank you JLCPCB for sponsoring this project. Please get your PCB printed at https://jlcpcb.com/RAT
 
 This project is about making a piano with Arduino Mega 2560. The piano will light up the corresponding LEDs that you have pressed. Let's get started!
 
@@ -24,4 +22,4 @@ Click on pad icon in PCB Tools. At the Pad Properties, ensure that Multi-Layer i
 
 Multilayer pad
 
-Hope you enjoy this project and do order your PCBs at jlcpcb.com/RAT
+Hope you enjoy this project and do order your PCBs at https://jlcpcb.com/RAT
