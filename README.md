@@ -2,6 +2,30 @@
 
 Thank you JLCPCB for sponsoring this project. Please get your PCB printed at https://jlcpcb.com/RAT
 
+Hardware components
+
+JLCPCB Customized PCB ×	1		
+
+Arduino Mega 2560 ×	1	
+
+12mm Tact Switch Height 1cm ×	36	
+
+3528 SMD LED ×	36	
+
+R1206 1000 Ohm Resistor ×	36	
+
+Male Header 80 Position 2 Row (0.1") ×	3	
+
+Dupont wire 2.54mm 30cm Male-Female ×	40	
+
+12mm Tact Switch Cap ×	36	
+
+Hand tools and fabrication machines
+
+Soldering iron (generic)
+
+Solder Wire, Lead Free
+
 This project is about making a piano with Arduino Mega 2560. The piano will light up the corresponding LEDs that you have pressed. Let's get started!
 
 We will need through-hole 12mm 1cm tall tact switches and their caps. The piano keyboard is arranged such that it is user friendly as you can place all your fingers on the keyboard.
